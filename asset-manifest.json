@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gh-12/static/css/main.231b787a.css",
+    "main.js": "/gh-12/static/js/main.7d71fcda.js",
+    "index.html": "/gh-12/index.html",
+    "main.231b787a.css.map": "/gh-12/static/css/main.231b787a.css.map",
+    "main.7d71fcda.js.map": "/gh-12/static/js/main.7d71fcda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.231b787a.css",
+    "static/js/main.7d71fcda.js"
+  ]
+}
